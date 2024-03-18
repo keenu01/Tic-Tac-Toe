@@ -11,6 +11,11 @@ Welcome to the Tic-Tac-Toe game! This simple C++ program allows you to play the 
 ## Game Board
 
 The game board consists of a 3x3 grid where players take turns marking their symbol ('X' or 'O'). Here's what the initial board looks like:
+| | | |
+| | | |
+| | | |
+(in the console)
+
 
 ## GoodBye!
 Feel free to modify, improve, or contribute to this code as you see fit... (please no bully)
